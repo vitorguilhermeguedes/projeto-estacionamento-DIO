@@ -7,10 +7,15 @@ O sistema permite cadastrar veículos, removê-los e listar os veículos present
 
 ## 📂 Estrutura do Projeto
 
+
 📦 Estacionamento
+
 ┣ 📂 Models
+
 ┃ ┗ 📜 Estacionamento.cs
+
 ┣ 📜 Program.cs
+
 ┗ 📜 README.md
 
 - **Program.cs** → Contém o menu principal e controla a execução do programa.  
